@@ -1,0 +1,86 @@
+.container{
+    height: 430px;
+    width: 702px;
+    position: absolute;
+    left: 446px;
+    top: 202px;
+    background: #fea600;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+    #seconds{
+        font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    left: 19rem
+     }
+    #tens{
+        font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    left: 23rem;
+     }
+
+     #button-start{
+        border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 100px 39px;
+    cursor: pointer;
+    background: none;
+    transition-duration: 0.4s;
+    border: 1px solid white;
+     }
+     #button-start:hover{
+        background-color: white;
+        color: #fea600;
+     }
+     #button-stop{
+        border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 100px 50px;
+    cursor: pointer;
+    background: none;
+    transition-duration: 0.4s;
+    border: 1px solid white;
+     }
+     #button-stop:hover{
+        background-color: white;
+        color: #fea600;
+     }
+     #button-reset{
+        border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 100px 50px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background: none;
+    border: 1px solid white;
+}
+#button-reset:hover{
+        background-color: white;
+        color: #fea600;
+     }
+     body{
+     background-color: #1d1e22;   
+     }
